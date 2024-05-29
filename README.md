@@ -1,9 +1,5 @@
-# AVDQuickLinks
-AVD References and Quick Links
-
-
-# Introduction 
-Trying to find specific AVD and Citrix architectural and deployment resources is time consuming. We put this Collection of Azure Virtual Desktop and Citrix Resources together for the broader HLS community to help streamline finding the most common resources when deploying AVD and/or Citrix in Azure.
+# AVD References and Quick Links
+Trying to find specific AVD and Citrix architectural and deployment resources is time consuming. We put this Collection of Azure Virtual Desktop and Citrix Resources together to help streamline finding the most common resources when deploying AVD and/or Citrix in Azure.
 
 # Getting Started
 Guide Contents:
@@ -22,4 +18,4 @@ Guide Contents:
 13. [Additional Resources and Links](https://dev.azure.com/HLS-AVD-CoP/_git/FY22%20CoP?path=/Additional%20Resources.md&_a=preview)
 
 # Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+TODO: Explain how other users and developers can contribute to make better. 
