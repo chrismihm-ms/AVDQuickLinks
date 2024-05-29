@@ -6,7 +6,7 @@ Guide Contents:
 1.	[General AVD Info](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/General%20AVD%20Info.md)
 2.	[Landing Zone Info and Accelerators](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Landing%20Zone%20Info%20and%20Accelerators.md)
 3.	[AVD for the Enterprise](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Profile%20Management.md)
-4.	[DR]()
+4.	[DR](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/DR.md)
 5.  [Identity & SSO]()
 6.  [Networking](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Networking.md)
 7.  [Security](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Security.md)
