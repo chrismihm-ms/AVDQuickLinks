@@ -4,7 +4,7 @@ Trying to find specific AVD and Citrix architectural and deployment resources is
 # Getting Started
 Guide Contents:
 1.	[General AVD Info](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/General%20AVD%20Info.md)
-2.	[Landing Zone Info and Accelerators](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Initial%20Deployments.md)
+2.	[Landing Zone Info and Accelerators](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Landing%20Zone%20Info%20and%20Accelerators.md)
 3.	[AVD for the Enterprise](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Profile%20Management.md)
 4.	[DR]()
 5.  [Identity & SSO]()
