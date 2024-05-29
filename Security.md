@@ -36,7 +36,7 @@ Applying [Zero Trust principles](https://learn.microsoft.com/en-us/security/zero
  7. Deploy secure management and monitoring to Azure Virtual Desktop\
  -Use Azure Virtual Desktop security, governance, management, and monitoring features to improve defenses and collect session host analytics.
 
-![Reference Architecture AVD Diagram](/diagrams/AVD_Ref_Arc.jpg)
+![Reference Architecture AVD Diagram](/Diagrams/AVD_Ref_Arc.jpg)
 
  > ** [Summary provided by Michel Roth Linked in Post](https://www.linkedin.com/posts/michelroth_azurevirtualdesktop-avd-activity-7048964958729949184-QhvL/)
 
@@ -49,6 +49,7 @@ Applying [Zero Trust principles](https://learn.microsoft.com/en-us/security/zero
 - [Azure Virtual Desktop security best practices - Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-desktop/security-guide)
 - [Use Azure Firewall to protect Azure Virtual Desktop | Microsoft Docs](https://docs.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop)
 - [How to use Azure Firewall Premium with WVD - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-network-security/how-to-use-azure-firewall-premium-with-wvd/ba-p/2148402)
+- [Git Repo to teplates for Create an Azure Firewall Policy for AVD required URLs](https://github.com/Azure/RDS-Templates/tree/master/AzureFirewallPolicyForAVD)
 - [Protecting Windows Virtual Desktop environments with Azure Security Center | Azure Blog and Updates | Microsoft Azure](https://azure.microsoft.com/en-us/blog/protecting-windows-virtual-desktop-environments-with-azure-security-center/)
 - [Trusted launch for Azure virtual machine](https://docs.microsoft.com/en-us/azure/virtual-machines/trusted-launch)
 - [Azure security baseline for Azure Virtual Desktop](https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/azure-virtual-desktop-security-baseline)
