@@ -7,7 +7,7 @@ Guide Contents:
 2.	[Landing Zone Info and Accelerators](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Landing%20Zone%20Info%20and%20Accelerators.md)
 3.	[AVD for the Enterprise](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/AVD%20for%20the%20Enterprise.md)
 4.	[DR](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/DR.md)
-5.  [Identity & SSO]()
+5.  [Identity & SSO](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Identity%20and%20SSO.md)
 6.  [Networking](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Networking.md)
 7.  [Security](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Security.md)
 8.	[Profile Management with FXLogix](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Profile%20Management.md)
