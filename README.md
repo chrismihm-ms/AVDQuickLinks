@@ -19,11 +19,7 @@ Guide Contents:
 - [Thin Clients](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Thin%20Clinets.md)
 - [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20ISV%20Solutions.md)
 - [Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md)
-
-
-
-
-10. [Skilling](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Skilling.md)
+- [Skilling](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Skilling.md)
 1.	[AVD and Windows 365](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/AVD%20and%20W365.md)
 2.	[Initial Deployments](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Initial%20Deployments.md)
 
