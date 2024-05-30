@@ -1,4 +1,4 @@
-# General AVD Info
+# Identity and SSO Options
 Below is a collection of links that provide guidance on Azure Virtual Desktop Identity and SSO configurations.
 
 - [Azure Virtual Desktop identities and authentication - Azure | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/authentication)

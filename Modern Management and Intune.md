@@ -1,4 +1,4 @@
-# General AVD Info
+# Modern Management and Intune
 Below is a collection of links that provide guidance on Azure Virtual Desktop modern management with Intune.
 
 

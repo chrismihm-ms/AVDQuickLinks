@@ -1,4 +1,4 @@
-# General AVD Info
+# AVD Disaster Recovery Guidance
 Below is a collection of links that provide guidance on Azure Virtual Desktop and DR configurations.
 
 - [Azure Virtual Desktop service architecture and resilience | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-resilience)
