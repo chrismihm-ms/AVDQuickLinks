@@ -4,7 +4,7 @@ Below is a collection of General Azure Virtual Desktop links to help get you sta
 - [Azure Virtual Desktop documentation | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
 - [Prerequisites for Azure Virtual Desktop | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites?tabs=portal)
 
-- Design considerations
+Design considerations
     - [Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework) set of guiding tenets that can be used to improve the quality of a workload
     - [Identity and Access Management](https://learn.microsoft.com/en-us/azure/virtual-desktop/authentication)
     - [Azure Virtual Desktop limitations](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop?context=%2Fazure%2Fvirtual-desktop%2Fcontext%2Fcontext#azure-virtual-desktop-limitations)
