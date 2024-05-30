@@ -3,26 +3,26 @@ Trying to find specific AVD and Citrix architectural and deployment resources is
 
 # Getting Started
 Guide Contents:
-1.	[General AVD Info](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/General%20AVD%20Info.md)
-2.	[Landing Zone Info and Accelerators](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Landing%20Zone%20Info%20and%20Accelerators.md)
-3.	[AVD for the Enterprise](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/AVD%20for%20the%20Enterprise.md)
-4.	[DR](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/DR.md)
-5.  [Identity & SSO](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Identity%20and%20SSO.md)
-6.  [Networking](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Networking.md)
-7.  [Security](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Security.md)
-8.	[Profile Management with FXLogix](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Profile%20Management.md)
-9.  [Image Management](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Image%20Management.md)
-10. [Performance & Monitoring](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Performance%20and%20Monitoring.md)
-11. [Understanding Cost & Optimization](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Cost%20Optimization.md)
-12. [Modern Management & Intune](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Modern%20Management%20and%20Intune.md)
+[General AVD Info](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/General%20AVD%20Info.md)
+[Landing Zone Info and Accelerators](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Landing%20Zone%20Info%20and%20Accelerators.md)
+[AVD for the Enterprise](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/AVD%20for%20the%20Enterprise.md)
+[DR](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/DR.md)
+[Identity & SSO](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Identity%20and%20SSO.md)
+[Networking](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Networking.md)
+[Security](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Security.md)
+[Profile Management with FXLogix](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Profile%20Management.md)
+[Image Management](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Image%20Management.md)
+[Performance & Monitoring](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Performance%20and%20Monitoring.md)
+[Understanding Cost & Optimization](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Cost%20Optimization.md)
+[Modern Management & Intune](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Modern%20Management%20and%20Intune.md)
 13. [App Packaging](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/App%20Packaging.md)
    MSIX App Attach
    App-V
 14. [Thin Clients]()
 
-15. [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20Solutions.md&_a=preview)
-16. [Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md&anchor=introduction&_a=preview)
-17. [Additional Resources and Links](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Additional%20Resources.md&_a=preview)
+[3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20Solutions.md&_a=preview)
+[Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md&anchor=introduction&_a=preview)
+
 
 
 
