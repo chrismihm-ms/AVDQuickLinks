@@ -27,33 +27,33 @@ This option requires you to create a Linux VM in Azure with the appropriate appl
 With this option, you will publish the application used to remotely access the Linux VM as a Remote Application – when the customer clicks on the Remote Application, they are redirected to the Linux-based system. AVD lets you publish either individual applications (Remote Apps) or the full Windows desktop experience.
 
 AVD lets you publish either individual applications (Remote Apps) or the full Windows desktop experience:  
-![RemoteApp Options](/diagrams/remote_app_1.jpg)  
+![RemoteApp Options](/Diagrams/remote_app_1.jpg)  
 
 ### PuTTY – Easy (if you don’t need GUI!
 PuTTY is well known to your Linux users (I’ll bet, and super easy to install / publish via RemoteApp!).
 Once it’s deployed, just share the IP address(es) of the hosts your users need access to, and they can setup the “saved sessions”:  
-![Putty RemoteApp](/diagrams/putty_remote_app_1.jpg)  
-![Putty RemoteApp](/diagrams/putty_remote_app_2.jpg) 
+![Putty RemoteApp](/Diagrams/putty_remote_app_1.jpg)  
+![Putty RemoteApp](/Diagrams/putty_remote_app_2.jpg) 
 
 ### Xrdp with MSTSC
 Let's look at that Ubuntu Icon in the Remote Desktop application.  
   
 While it is implemented as a Remote Application (our old friend MSTSC) it publishes a full Ubuntu desktop:  
-![Xrdp RemoteApp](/diagrams/xrdp_w_mstsc_1.jpg)  
+![Xrdp RemoteApp](/Diagrams/xrdp_w_mstsc_1.jpg)  
   
 When the user clicks on it, they get the familiar connection dialog:  
-![Xrdp RemoteApp](/diagrams/xrdp_w_mstsc_2.jpg)  
+![Xrdp RemoteApp](/Diagrams/xrdp_w_mstsc_2.jpg)  
   
 ...and maybe that secondary authentication prompt for Windows  
 (again, this can be eliminated if you implement single sign on:)  
-![Xrdp RemoteApp](/diagrams/xrdp_w_mstsc_3.jpg)  
+![Xrdp RemoteApp](/Diagrams/xrdp_w_mstsc_3.jpg)  
  
 BUT THEN they get to their Linux desktop:  
-![Xrdp RemoteApp](/diagrams/xrdp_w_mstsc_4.jpg)  
+![Xrdp RemoteApp](/Diagrams/xrdp_w_mstsc_4.jpg)  
 In this case, it's an xrdp login prompt for a local credential stored in etc/passwd (could also be PAM integrated).  
   
 Once they log in - they have their desktop:  
-![Xrdp RemoteApp](/diagrams/xrdp_w_mstsc_5.jpg)  
+![Xrdp RemoteApp](/Diagrams/xrdp_w_mstsc_5.jpg)  
   
 It’s pretty easy to setup in Azure – happy to walk you through it if you like.
 You may have to grant users Local Admin rights on the VM where you publish MSTSC to the Linux box (I can help with that!).  
@@ -62,13 +62,13 @@ You may have to grant users Local Admin rights on the VM where you publish MSTSC
 You can do something similar with MobaXTerm or X2Go (and not mess around with XRDP!).  
 **These may actually be the PREFFERED method so that the xRDP package is not required in the Linux VMs.**  
 I do like X2Go published via RemoteApp – super simple user interface:  
-![Xrdp RemoteApp](/diagrams/x-windows_1.jpg)  
+![Xrdp RemoteApp](/Diagrams/x-windows_1.jpg)  
   
-![Xrdp RemoteApp](/diagrams/x-windows_2.jpg)  
+![Xrdp RemoteApp](/Diagrams/x-windows_2.jpg)  
   
 …and then I’m into my full Linux Desktop (in this case, a Linux Data Science VM in Azure):  
-![Xrdp RemoteApp](/diagrams/x-windows_3.jpg)  
+![Xrdp RemoteApp](/Diagrams/x-windows_3.jpg)  
   
 ### Notes:
 ***Example:** Setting Ubuntu icon in Remote App config:  
-![Xrdp RemoteApp](/diagrams/ubuntu_remote_app_icon.png)  
+![Xrdp RemoteApp](/Diagrams/ubuntu_remote_app_icon.png)  
