@@ -3,6 +3,10 @@
 Below is a collection of Azure Virtual Desktop links to help with Image Management.
 
 ## Building Images
+* [Prepare a Windows VHD to upload to Azure - Azure Virtual Machines | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image)
+
+* [Use custom image templates to create custom images - Azure Virtual Desktop | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-custom-image-templates)
+
 * [Platform automation and DevOps  for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-platform-automation-and-devops)
 
 * [Azure Image Builder](https://learn.microsoft.com/en-us/azure/virtual-machines/image-builder-overview?tabs=azure-powershell)
@@ -15,13 +19,13 @@ Below is a collection of Azure Virtual Desktop links to help with Image Manageme
 
 * [Hostpool Image Update](https://dev.azure.com/Supportability/WindowsVirtualDesktop/_wiki/wikis/WindowsVirtualDesktop/537733/Hostpool-Image-Update)
 
-* [AVD Security Best Practices
-](https://learn.microsoft.com/en-us/azure/virtual-desktop/security-guide)
 
 ## Applications
 * [Install Office on a master VHD image](https://learn.microsoft.com/en-us/azure/virtual-desktop/install-office-on-wvd-master-image)
-
 * [Use Microsoft Teams on Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
+* [Supported features for Microsoft Teams on Azure Virtual Desktop - Azure | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-supported-features)
+* [Deployment checklist for new Teams client - Microsoft Teams | Microsoft Learn](https://learn.microsoft.com/en-us/microsoftteams/new-teams-deployment-checklist)
+* [New Microsoft Teams for Virtualized Desktop Infrastructure (VDI) - Microsoft Teams | Microsoft Learn](https://learn.microsoft.com/en-us/microsoftteams/new-teams-vdi-requirements-deploy)
 
 
 ## Optimization

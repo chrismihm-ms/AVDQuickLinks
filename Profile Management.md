@@ -2,12 +2,12 @@
 The Azure Virtual Desktop service recommends FSLogix profile containers as a user profile solution. FSLogix is designed to roam profiles in remote computing environments, such as Azure Virtual Desktop. It stores a complete user profile in a single container. At sign in, this container is dynamically attached to the computing environment using natively supported Virtual Hard Disk (VHD) and Hyper-V Virtual Hard disk (VHDX). The user profile is immediately available and appears in the system exactly like a native user profile. This article describes how FSLogix profile containers used with Azure Files function in Azure Virtual Desktop. 
 
 ## *FXLogix*
-- [FSLogix profile containers and Azure files](https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-containers-azure-files)
+- [Azure Virtual Desktop FSLogix profile containers files - Azure | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-containers-azure-files)
 - [Storage options for FSLogix profile containers in Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile)
-- [Set up FSLogix Profile Container with Azure Files and AD DS or Azure AD DS](https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-profile-container-configure-azure-files-active-directory?tabs=adds)
+- [Set up FSLogix Profile Container with Azure Files and AD DS or Microsoft Entra Domain Services - Azure Virtual Desktop | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-profile-container-configure-azure-files-active-directory?tabs=adds)
 - [Configure FSLogix Cloud Cache Tutorial](https://learn.microsoft.com/en-us/fslogix/configure-cloud-cache-tutorial)
 - [Learn here how to configure Azure Files with Active Directory (AD)](https://www.christiaanbrinkhoff.com/2020/03/01/learn-here-how-to-configure-azure-files-with-active-directory-ad-authentication-for-fslogix-profile-container-and-msix-app-attach/)
-
+- [Configuration Settings Reference - FSLogix | Microsoft Learn](https://learn.microsoft.com/en-us/fslogix/reference-configuration-settings?tabs=profiles)
 
 ## *Storage Consideration* 
 - [Storage options for FSLogix profile containers in Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile)
