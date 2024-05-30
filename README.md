@@ -22,8 +22,8 @@ Guide Contents:
 - [Skilling](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Skilling.md)
 
 # In Progress/Future Sections
-Running AVD OnPrem with Azure Stack
-Guidance for AVD + Epic
+- Running AVD OnPrem with Azure Stack
+- Guidance for AVD + Epic
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make better. 
