@@ -20,7 +20,7 @@ Guide Contents:
    App-V
 14. [Thin Clients]()
 
-- [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20Solutions.md&_a=preview)
+- [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20Solutions.md)
 - [Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md&anchor=introduction&_a=preview)
 
 

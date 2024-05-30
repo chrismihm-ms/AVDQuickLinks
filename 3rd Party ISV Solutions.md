@@ -21,3 +21,6 @@ Below is a collection of Azure Virtual Desktop Partner and ISV Solutions.
 
 ## *App Packaging - weird/hard to package apps*
 - [Cloudpaging](https://www.appsanywhere.com/product/integrations/numecent-cloudpaging)
+
+## *Device Redirection Assistance*
+- [FabulaTech - USB over Network, USB for Remote Desktop, virtual COM ports](https://www.fabulatech.com/)
