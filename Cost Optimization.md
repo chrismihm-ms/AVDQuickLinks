@@ -1,8 +1,6 @@
 # Azure Virtual Desktop Cost Optimization
 AVD environment costs is typically a major concern for our customers. AVD environments expand quickly and are dynamic. We recommend putting proper cost controls and optimization in place to help mitigate cloud spend risk. 
 
-
-
 Typical Azure Virtual Desktop costs areas that are prime for optimization are:
  - Compute
  - OS Disk storage
@@ -11,6 +9,7 @@ Typical Azure Virtual Desktop costs areas that are prime for optimization are:
  - Monitoring/Log Analytics
  - Backup
 
+Below are some links to help you better understand the total Azure Virtual Desktop Costs and Instance cost comparison to other cloud providers
 - [Understanding total Azure Virtual Desktop deployment costs - Azure | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/understand-estimate-costs)
 - [How much the power of #Azure makes #AVD cheaper over time | LinkedIn](https://www.linkedin.com/pulse/how-much-power-azure-makes-avd-cheaper-time-michel-roth/)
 - [Unveiling the True Cost: Single-User vs. Multi-User Sessions in Microsoft Azure Virtual Desktop | GO-EUC](https://www.go-euc.com/unveiling-the-true-cost-single-user-vs-multi-user-sessions-in-microsoft-azure-virtual-desktop/)
