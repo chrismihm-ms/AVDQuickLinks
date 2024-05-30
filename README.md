@@ -24,6 +24,7 @@ Guide Contents:
 - [Azure Virtual Desktop pricing](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/)
 
 # In Progress/Future Sections
+- AVD and W365 - Different ways to deliver Windows
 - Running AVD OnPrem with Azure Stack
 - Guidance for AVD + Epic
 
