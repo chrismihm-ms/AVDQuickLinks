@@ -4,12 +4,12 @@ AVD environment costs is typically a major concern for our customers. AVD enviro
 
 
 Typical Azure Virtual Desktop costs areas that are prime for optimization are:
-- Compute
-- OS Disk storage
-- FSLogix storage
-- Networking
-- Monitoring/Log Analytics
-- Backup
+ Compute
+ OS Disk storage
+ FSLogix storage
+ Networking
+ Monitoring/Log Analytics
+ Backup
 
 - [Understanding total Azure Virtual Desktop deployment costs - Azure | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/understand-estimate-costs)
 - [How much the power of #Azure makes #AVD cheaper over time | LinkedIn](https://www.linkedin.com/pulse/how-much-power-azure-makes-avd-cheaper-time-michel-roth/)
