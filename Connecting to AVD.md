@@ -1,4 +1,4 @@
-# General AVD Info
+# Connecting to AVD
 Below is a collection of links on how end users can connect to Azure Virtual Desktop.
 
 
