@@ -45,7 +45,7 @@ Applying [Zero Trust principles](https://learn.microsoft.com/en-us/security/zero
 
 **Host Level AVD Security:**
 
-- [Azure Virtual Desktop Security, Governance & Compliance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-security-governance-and-compliance)
+- [Azure Virtual Desktop Security, Governance & Compliance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-virtual-desktop/eslz-security-governance-and-compliance)
 - [Azure Virtual Desktop security best practices - Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-desktop/security-guide)
 - [Use Azure Firewall to protect Azure Virtual Desktop | Microsoft Docs](https://docs.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop)
 - [How to use Azure Firewall Premium with WVD - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-network-security/how-to-use-azure-firewall-premium-with-wvd/ba-p/2148402)
@@ -64,4 +64,4 @@ Applying [Zero Trust principles](https://learn.microsoft.com/en-us/security/zero
 - [Enable conditional access policy for Azure Virtual Desktop - Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa#create-a-conditional-access-policy)
 - [Azure Virtual Desktop SSO from Windows Remote Desktop Client - Microsoft Q&A](https://docs.microsoft.com/en-us/answers/questions/488168/azure-virtual-desktop-sso-from-windows-remote-desk.html)
 - [Screen capture protection in Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/screen-capture-protection)
-- [Watermarking in Azure Virtual Desktop (preview)](https://learn.microsoft.com/en-us/azure/virtual-desktop/watermarking)
+- [Watermarking in Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/watermarking)

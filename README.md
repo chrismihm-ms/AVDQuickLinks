@@ -24,6 +24,7 @@ Guide Contents:
 # In Progress/Future Sections
 - Running AVD OnPrem with Azure Stack
 - Guidance for AVD + Epic
+- Short "How to" Videos
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make better. 
