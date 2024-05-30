@@ -60,6 +60,7 @@ Applying [Zero Trust principles](https://learn.microsoft.com/en-us/security/zero
 **AVD Client Security & Data Protection:**
 
 - [Set up Azure multifactor authentication for Windows Virtual Desktop - Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa)
+- [Enforce Microsoft Entra multifactor authentication for Azure Virtual Desktop using Conditional Access](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa?tabs=avd#create-a-conditional-access-policy)
 - [Enable conditional access policy for Azure Virtual Desktop - Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa#create-a-conditional-access-policy)
 - [Azure Virtual Desktop SSO from Windows Remote Desktop Client - Microsoft Q&A](https://docs.microsoft.com/en-us/answers/questions/488168/azure-virtual-desktop-sso-from-windows-remote-desk.html)
 - [Screen capture protection in Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/screen-capture-protection)
