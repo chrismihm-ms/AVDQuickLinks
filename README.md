@@ -20,11 +20,12 @@ Guide Contents:
 - [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20ISV%20Solutions.md)
 - [Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md)
 - [Skilling](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Skilling.md)
+- [How-to videos about Azure Virtual Desktop](https://learn.microsoft.com/en-US/troubleshoot/azure/virtual-machines/windows/how-to-videos-windows-virtual-desktop)
+- [Azure Virtual Desktop pricing](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/)
 
 # In Progress/Future Sections
 - Running AVD OnPrem with Azure Stack
 - Guidance for AVD + Epic
-- Short "How to" Videos
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make better. 
