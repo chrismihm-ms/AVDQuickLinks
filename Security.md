@@ -38,7 +38,7 @@ Applying [Zero Trust principles](https://learn.microsoft.com/en-us/security/zero
 
 ![Reference Architecture AVD Diagram](/Diagrams/AVD_Ref_Arc.jpg)
 
- > ** [Summary provided by Michel Roth Linked in Post](https://www.linkedin.com/posts/michelroth_azurevirtualdesktop-avd-activity-7048964958729949184-QhvL/)
+ ** [*Summary provided by Michel Roth Linked in Post*](https://www.linkedin.com/posts/michelroth_azurevirtualdesktop-avd-activity-7048964958729949184-QhvL/)
 
 - [Zero Trust principles to an Azure Virtual Desktop deployment](https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-avd)
 
