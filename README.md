@@ -15,14 +15,14 @@ Guide Contents:
 10. [Performance & Monitoring](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Performance%20and%20Monitoring.md)
 11. [Understanding Cost & Optimization](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Cost%20Optimization.md)
 12. [Modern Management & Intune]()
-13.  [App Packaging](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/App%20Packaging.md)
+13. [App Packaging](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/App%20Packaging.md)
    MSIX App Attach
    App-V
 14. [Thin Clients]()
-15. [GPU for AVD]() 
-16. [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20Solutions.md&_a=preview)
-17. [Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md&anchor=introduction&_a=preview)
-18. [Additional Resources and Links](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Additional%20Resources.md&_a=preview)
+
+15. [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20Solutions.md&_a=preview)
+16. [Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md&anchor=introduction&_a=preview)
+17. [Additional Resources and Links](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Additional%20Resources.md&_a=preview)
 
 
 
