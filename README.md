@@ -1,4 +1,4 @@
-# AVD References and Quick Links
+# Azure Virtual Desktop (AVD) Quick Reference Links
 Trying to find specific Azure Virtual Desktop architectural and deployment resources is time consuming. We put this Collection of Azure Virtual Desktop Resources together to help streamline finding the most common resources when deploying AVD.
 
 # Getting Started
