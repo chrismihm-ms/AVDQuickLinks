@@ -6,7 +6,7 @@ Below is a collection of General Azure Virtual Desktop links to help get you sta
 
 ![azure-virtual-desktop-architecture](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/media/azure-virtual-desktop-architecture.png)
 
-### Design considerations
+### Design Considerations
 - [Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework) set of guiding tenets that can be used to improve the quality of a workload
 - [Enterprise Scale](AVD%20for%20the%20Enterprise.md)
 - [Identity and Access Management](https://learn.microsoft.com/en-us/azure/virtual-desktop/authentication)
