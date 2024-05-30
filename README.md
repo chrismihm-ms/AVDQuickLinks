@@ -16,8 +16,7 @@ Guide Contents:
 - [Understanding Cost & Optimization](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Cost%20Optimization.md)
 - [Modern Management & Intune](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Modern%20Management%20and%20Intune.md)
 - [App Packaging](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/App%20Packaging.md)
-14. [Thin Clients]()
-
+- [Thin Clients]()
 - [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20ISV%20Solutions.md)
 - [Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md)
 
