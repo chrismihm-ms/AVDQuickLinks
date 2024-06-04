@@ -31,17 +31,17 @@ Save with Windows 11 and 10 multi-session support \
 
 
 ### Drivers
-- Security and compliance \
-Secure, high performance cloud platform for financial institutions that meets compliance requirements
+Security and compliance
+* Secure, high performance cloud platform for financial institutions that meets compliance requirements
 
-- Data Sovereignty \
-Cloud functionality that can meet the data sovereignty and data gravity requirements for public sector entities
+Data Sovereignty
+* Cloud functionality that can meet the data sovereignty and data gravity requirements for public sector entities
 
-- Low Latency workloads \
-High performance and low latency cloud capabilities that can meet the compute requirements for the most demanding workloads
+Low Latency workloads
+* High performance and low latency cloud capabilities that can meet the compute requirements for the most demanding workloads
 
-- Virtual Desktop Infrastrcuture (VDI) Modernization \
-Migrate existing VDI workloads to Azure using Azure Stack HCI
+Virtual Desktop Infrastrcuture (VDI) Modernization
+* Migrate existing VDI workloads to Azure using Azure Stack HCI
 
 \
 [*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)
