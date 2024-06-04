@@ -19,5 +19,4 @@ alt="100% Cloud Native Azure AD Single Sign-On" width="240" height="180" border=
 alt="Sign In To Azure Virtual Desktop ONCE" width="240" height="180" border="10" /></a>
 
 \
-\
 [*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)
