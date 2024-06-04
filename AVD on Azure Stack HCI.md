@@ -30,8 +30,7 @@ Below is some information and collection of links that provide guidance on Azure
 * No need to manage overhead licenses for Remote Desktop Services (RDS)
 * Save with Windows 11 and 10 multi-session support
 
-\
-
+.
 ### Drivers for Using Azure Stack HCI with AVD
 
 #### Security and compliance
