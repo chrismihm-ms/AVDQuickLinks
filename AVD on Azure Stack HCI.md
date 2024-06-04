@@ -1,7 +1,7 @@
 # Azure Virtual Desktop for Azure Stack HCI
 Below is some information and collection of links that provide guidance on Azure Virtual Desktop running on Azure Stack HCI.
 
-### Benefits
+### Benefits of running AVD on Azure Stack HCI
 
 #### Secure anywhere
 * Run virtualized desktops and apps securely with Entra ID, conditional access, and MFA
@@ -31,7 +31,7 @@ Below is some information and collection of links that provide guidance on Azure
 * Save with Windows 11 and 10 multi-session support
 
 
-### Drivers
+### Drivers for Using Azure Stack HCI with AVD
 
 #### Security and compliance
 * Secure, high performance cloud platform for financial institutions that meets compliance requirements
