@@ -12,6 +12,7 @@ Below is a collection of links that provide guidance on Azure Virtual Desktop Id
 ## Additional Videos and how to's:
 - [100% Cloud Native Azure AD Single Sign-On](https://www.youtube.com/watch?v=_PrgdDH1oB4)
 - [Sign In To Azure Virtual Desktop ONCE](https://www.youtube.com/watch?v=_VOEi0cMBvQ)
- 
- 
+\
+\
+\
 [*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)
