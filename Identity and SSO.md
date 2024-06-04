@@ -10,6 +10,10 @@ Below is a collection of links that provide guidance on Azure Virtual Desktop Id
 - [Passwordless security key sign-in to on-premises resources - Microsoft Entra ID | Microsoft Learn](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-authentication-passwordless-security-key-on-premises#install-the-azure-ad-kerberos-powershell-module)
 
 ## Additional Videos and how to's:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=PrgdDH1oB4
+" target="_blank"><img src="http://img.youtube.com/vi/PrgdDH1oB4/0.jpg" 
+alt="100% Cloud Native Azure AD Single Sign-On" width="240" height="180" border="10" /></a>
+
 - [100% Cloud Native Azure AD Single Sign-On](https://www.youtube.com/watch?v=_PrgdDH1oB4)
 - [Sign In To Azure Virtual Desktop ONCE](https://www.youtube.com/watch?v=_VOEi0cMBvQ)
 \
