@@ -5,3 +5,6 @@ Below is a collection of Azure Virtual Desktop for the Enterprise links to help 
 - [Azure Virtual Desktop service architecture and resilience | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-resilience)
 
 ![azure-virtual-desktop-architecture](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/media/azure-virtual-desktop-architecture.png)
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

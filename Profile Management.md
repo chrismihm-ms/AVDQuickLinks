@@ -29,3 +29,5 @@ Regional availability: [Select regions](https://azure.microsoft.com/explore/glob
 - ***Capacity:*** 100 TiB per volume, up to 12.5 PiB per NetApp account
 - ***Required infrastructure:*** Minimum capacity pool 2 TiB, min volume size 100 GiB
 - ***Protocols:*** NFSv3, NFSv4.1, SMB 3.x/2.x, dual-protocol
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

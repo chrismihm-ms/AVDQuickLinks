@@ -16,3 +16,6 @@ Below is a collection of Azure Virtual Desktop links to help with App Packaging.
 - [Why Has App-V’s End of Life Been Extended to 2026 | Access IT Automation](https://accessitautomation.com/why-has-app-vs-end-of-life-been-extended-to-2026-and-what-should-you-do-to-prepare/)
 
 ![App-V EOS](/Diagrams/App-V_EOS.jpg)
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

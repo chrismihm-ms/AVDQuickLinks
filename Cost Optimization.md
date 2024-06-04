@@ -45,3 +45,5 @@ For long term steady usage of AVD, Reserved Instances and Savings Plans should b
 - Check in with your Azure Advisor best practice recommendations for cost savings
 - Monitor and Analyze your costs with Microsoft Cost Management
 
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

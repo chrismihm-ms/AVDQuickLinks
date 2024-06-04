@@ -24,3 +24,6 @@ Below is a collection of Azure Virtual Desktop Partner and ISV Solutions.
 
 ## *Device Redirection Assistance*
 - [FabulaTech - USB over Network, USB for Remote Desktop, virtual COM ports](https://www.fabulatech.com/)
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

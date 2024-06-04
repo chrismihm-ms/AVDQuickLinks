@@ -10,3 +10,6 @@ Below is a collection of links on how end users can connect to Azure Virtual Des
 
 Thin Client Support
 - [Connect to Azure Virtual Desktop with thin clients - Azure Virtual Desktop | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-thin-clients)
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

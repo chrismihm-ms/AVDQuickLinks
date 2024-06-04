@@ -12,3 +12,6 @@ Below is a collection of Azure Virtual Desktop links to help with Performance an
 - [Set up diagnostics to monitor agent updates](https://learn.microsoft.com/en-us/azure/virtual-desktop/agent-updates-diagnostics)
 
 - [Setup Azure Virtual Desktop disaster recovery plan](https://learn.microsoft.com/en-us/azure/virtual-desktop/disaster-recovery?toc=/azure/virtual-desktop/remote-app-streaming/toc.json&bc=/azure/virtual-desktop/breadcrumb/toc.json)
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

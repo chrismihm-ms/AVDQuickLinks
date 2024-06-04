@@ -72,3 +72,6 @@ I do like X2Go published via RemoteApp – super simple user interface:
 ### Notes:
 ***Example:** Setting Ubuntu icon in Remote App config:  
 ![Xrdp RemoteApp](/Diagrams/ubuntu_remote_app_icon.png)  
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

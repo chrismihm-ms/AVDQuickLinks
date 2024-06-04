@@ -38,3 +38,6 @@ Below is a collection of Azure Virtual Desktop links to help with Image Manageme
 * [Getting started with Zoom on VDI](https://support.zoom.us/hc/en-us/articles/360031096531-Getting-Started-with-VDI)
 
 * [Nerdio - Overview of Desktop Images](https://help.nerdio.net/hc/en-us/articles/11548090397581-Overview-of-Desktop-Images)
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

@@ -6,3 +6,6 @@ Below is a collection of links that provide guidance on Azure Virtual Desktop an
 - [Azure Virtual Desktop disaster recovery plan | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/disaster-recovery)
 - [Business continuity and disaster recovery for Azure Virtual Desktop - Cloud Adoption Framework | Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-virtual-desktop/eslz-business-continuity-and-disaster-recovery)
 - [Business continuity and disaster recovery options - FSLogix | Microsoft Learn](https://learn.microsoft.com/en-us/fslogix/concepts-container-recovery-business-continuity)
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

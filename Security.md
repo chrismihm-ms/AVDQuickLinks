@@ -65,3 +65,6 @@ Applying [Zero Trust principles](https://learn.microsoft.com/en-us/security/zero
 - [Azure Virtual Desktop SSO from Windows Remote Desktop Client - Microsoft Q&A](https://docs.microsoft.com/en-us/answers/questions/488168/azure-virtual-desktop-sso-from-windows-remote-desk.html)
 - [Screen capture protection in Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/screen-capture-protection)
 - [Watermarking in Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/watermarking)
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)

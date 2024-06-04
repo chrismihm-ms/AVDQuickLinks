@@ -18,3 +18,6 @@ Below is a collection of General Azure Virtual Desktop links to help get you sta
 - [Cost Optimization](Security.md)
 - [Azure Virtual Desktop limitations](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop?context=%2Fazure%2Fvirtual-desktop%2Fcontext%2Fcontext#azure-virtual-desktop-limitations)
 - [VM Sizing](https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs) Whether you're running your session host virtual machines (VM) on Remote Desktop Services or Azure Virtual Desktop, different types of workloads require different VM configurations. The examples in this article are generic guidelines and you should only use them for initial performance estimates. For the best possible experience, you will need to scale your deployment depending on your users' needs.
+
+\
+[*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)
