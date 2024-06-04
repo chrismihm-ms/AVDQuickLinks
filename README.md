@@ -26,7 +26,7 @@ Guide Contents:
 # In Progress/Future Sections
 - AVD and W365 - Different ways to deliver Windows
 - Running AVD OnPrem with Azure Stack
-- Guidance for AVD + Epic
+- Guidance for AVD + Epic (Exploratory)
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make better. 
