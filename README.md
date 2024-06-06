@@ -17,6 +17,7 @@ Guide Contents:
 - [Modern Management & Intune](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Modern%20Management%20and%20Intune.md)
 - [App Packaging](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/App%20Packaging.md)
 - [Connecting to AVD](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Connecting%20to%20AVD.md)
+- [Running Azure Virtual Desktop OnPrem with Azure Stack HCI](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/AVD%20on%20Azure%20Stack%20HCI.md)
 - [3rd Party ISV Solutions](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/3rd%20Party%20ISV%20Solutions.md)
 - [Linux Host Support](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Linux%20Support.md)
 - [Skilling](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Skilling.md)
@@ -25,7 +26,6 @@ Guide Contents:
 
 # In Progress/Future Sections
 - AVD and W365 - Different ways to deliver Windows
-- Running AVD OnPrem with Azure Stack
 - Guidance for AVD + Epic (Exploratory)
 
 # Contribute
