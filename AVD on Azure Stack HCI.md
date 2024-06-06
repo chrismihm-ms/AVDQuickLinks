@@ -1,11 +1,9 @@
 # Azure Virtual Desktop for Azure Stack HCI
-Below is some information and collection of links that provide guidance on Azure Virtual Desktop running on Azure Stack HCI.
-
 Azure Stack HCI introduces a key capability which allows the operation of Microsoft AVD session hosts on-premises, supported by Azure Stack HCI 23H2. This integration empowers end-users to access familiar desktops and resources while benefiting from enhanced performance offered by Azure Stack HCI. By leveraging dedicated computing, storage, and networking within their own data center, AVD on Azure Stack HCI ensures improved efficiency.
 
 Moreover, AVD desktops are strategically located in nearby data centers, ensuring minimal latency when connecting to these desktops and accessing associated data. This is particularly advantageous for organizations with requirements that need to store data locally rather than in the public cloud.
 
-- [Azure Virtual Desktop with Azure Stack HCI](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-stack-hci-overview)
+- [Azure Virtual Desktop with Azure Stack HCI | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-stack-hci-overview)
 
 ### Benefits of running AVD on Azure Stack HCI
 
