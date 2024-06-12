@@ -21,7 +21,7 @@ Customers can adjust configuration and behavior of resources to reduce operation
 - Leverage [Azure hybrid benefits](https://learn.microsoft.com/en-us/windows-server/get-started/azure-hybrid-benefit) on qualifying servers
 - [Manage VM run time with autoscale scaling plan for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-scaling-plan)
 - [Set up Start VM on Connect](https://learn.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect?tabs=azure-portal)
-- Leveraging Microsoft partner solutions like [Citrix](https://www.citrix.com/products/citrix-virtual-apps-and-desktops/resources/azure-virtual-desktop-calculator.html#/) and [Nerdio](https://getnerdio.com/academy/6-cost-reduction-strategies-for-azure-virtual-desktop/) that help organizations by improving user density, reducing network traffic and optimizing compute and storage
+- Leveraging Microsoft partner solutions like [Nerdio](https://getnerdio.com/academy/6-cost-reduction-strategies-for-azure-virtual-desktop/) and [Citrix](https://www.citrix.com/products/citrix-virtual-apps-and-desktops/resources/azure-virtual-desktop-calculator.html#/) that help organizations by improving user density, reducing network traffic and optimizing compute and storage
 
 
 # Billing Optimization
