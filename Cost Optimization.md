@@ -22,7 +22,7 @@ Customers can adjust configuration and behavior of resources to reduce operation
 - [Manage VM run time with autoscale scaling plan for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-scaling-plan)
 - [Set up Start VM on Connect](https://learn.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect?tabs=azure-portal)
 - Leveraging Microsoft partner solutions like [Citrix](https://www.citrix.com/products/citrix-virtual-apps-and-desktops/resources/azure-virtual-desktop-calculator.html#/) and [Nerdio](https://getnerdio.com/academy/6-cost-reduction-strategies-for-azure-virtual-desktop/) that help organizations by improving user density, reducing network traffic and optimizing compute and storage
-- [Citrix Cloud Cost Optimizations](https://docs.citrix.com/en-us/tech-zone/toc/by-product/citrix-virtual-apps-and-desktops/optimizations.html#cloud-cost-optimizations)
+
 
 # Billing Optimization
 Customers can take advantage of Reserved Instances and Savings Plans to reduce billed usage. Before committing to an RI or Savings Plan, be sure the customer has followed the operational guidance above and has a solid understanding of their expected usage.
