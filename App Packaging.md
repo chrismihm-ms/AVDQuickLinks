@@ -10,6 +10,9 @@ Below is a collection of Azure Virtual Desktop links to help with App Packaging.
 - [Host Custom Apps apps in Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/remote-app-streaming/custom-apps)
 - [New App attach features for Azure Virtual Desktop now generally available](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/app-attach-for-azure-virtual-desktop-now-generally-available/ba-p/4167578)
 
+### Videos
+- [Azure Academy - 3 Ways To GET MSIX Files From Vendors](https://www.youtube.com/watch?v=bqW0ZbcLOaQ)
+
 
 ## *App-V*
 - [Feature-based comparison of Application Virtualization and MSIX - MSIX | Microsoft Learn](https://learn.microsoft.com/en-us/windows/msix/comparisonofappvwithmsix)
