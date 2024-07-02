@@ -11,5 +11,12 @@ Below is a collection of links on how end users can connect to Azure Virtual Des
 Thin Client Support
 - [Connect to Azure Virtual Desktop with thin clients - Azure Virtual Desktop | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-thin-clients)
 
+
+Device Redirection
+ - [Introducing Microsoft RemoteFX USB Redirection](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-microsoft-remotefx-usb-redirection-part-1/ba-p/247035)
+ - [Troubleshoot device redirections for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-device-redirections) 
+ - [USB and device redirection with RemoteFX](https://avdpunks.com/w365/2024/01/04/W365-AdvancedUSBRedirection.html)
+- [Troubleshoot device redirections for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-device-redirections) 
+
 \
 [*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)
