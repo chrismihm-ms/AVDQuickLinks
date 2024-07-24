@@ -25,6 +25,7 @@ Guide Contents:
 - [Azure Virtual Desktop pricing](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/)
 
 # In Progress/Future Sections
+- [Azure Dev Box](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/DevBox.md)
 - AVD and W365 - Different ways to deliver Windows
 - Guidance for AVD + Epic (Exploratory)
 
