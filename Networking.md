@@ -35,12 +35,12 @@ For **RDP Shortpath** over public networks, the traffic (using ICE/STUN or TURN)
 - [Azure network round-trip latency statistics | Microsoft Learn](https://learn.microsoft.com/en-us/azure/networking/azure-network-latency?tabs=Americas%2CWestUS)
 
 
-Quick Notes:
+## Quick Notes:
 How do I know if I’m successfully using TURN?
 
-[Connectivity icon in remote desktop window](/Diagrams/remote-desktop-bar-connectivity-icon.png) 
+![Connectivity icon in remote desktop window](/Diagrams/remote-desktop-bar-connectivity-icon.png) 
 
-This will display the network details including what type of transport is in use:
+##### *This will display the network details including what type of transport is in use:*
 
 | Connectivity type                       | Transport protocol output  | Example output                             |
 | --------------------------------------- |:--------------------------:|:-------------------------------------------|
@@ -49,17 +49,17 @@ This will display the network details including what type of transport is in use
 |                                         |                            | Round-trip time:13 ms                      |
 |                                         |                            | Available bandwidth: 9.99 Mpbs             |
 |                                         |                            | Frame rate: 0 FPS                          |
-| UDP (RDP Shortpath using STUN)          | UDP                        | [Network details]                          |
+| UDP ([RDP Shortpath using STUN](https://learn.microsoft.com/azure/virtual-desktop/network-connectivity#reverse-connect-transport))          | UDP                        | [Network details]                          |
 |                                         |                            | Transport protocol: UDP                    |
 |                                         |                            | Round-trip time:10 ms                      |
 |                                         |                            | Available bandwidth: 60.93 Mpbs            |
 |                                         |                            | Frame rate: 0 FPS                          |
-| UDP (RDP Shortpath using TURN)          | UDP (relay)                | [Network details]                          |
+| UDP ([RDP Shortpath using TURN](https://learn.microsoft.com/en-us/azure/virtual-desktop/network-connectivity#reverse-connect-transport))          | UDP (relay)                | [Network details]                          |
 |                                         |                            | Transport protocol: UDP (relay)            |
 |                                         |                            | Round-trip time:29 ms                      |
 |                                         |                            | Available bandwidth: 88.31 Mpbs            |
 |                                         |                            | Frame rate: 0 FPS                          |
-| UDP (RDP Shortpath on private networks) | UDP (private network)      | [Network details]                          |
+| UDP ([RDP Shortpath on private networks](https://learn.microsoft.com/azure/virtual-desktop/rdp-shortpath?tabs=managed-networks#tabpanel_1_managed-networks)) | UDP (private network)      | [Network details]                          |
 |                                         |                            | Transport protocol: UDP (private network)  |
 |                                         |                            | Round-trip time:6 ms                       |
 |                                         |                            | Available bandwidth: Greater than 135 Mpbs |
