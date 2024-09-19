@@ -40,11 +40,11 @@ How do I know if I’m successfully using TURN?
 
 [Connectivity icon in remote desktop window](/Diagrams/remote-desktop-bar-connectivity-icon.png) 
 
-This will display the network details including what type of transport is in use.
+This will display the network details including what type of transport is in use:
 
 | Connectivity type                       | Transport protocol output  | Example output                             |
 | --------------------------------------- |:--------------------------:|:-------------------------------------------|
-| TCP (WebSocket reverse connect)         | WebSocket                  | [Network details]                          |
+| TCP ([WebSocket reverse connect](https://learn.microsoft.com/azure/virtual-desktop/network-connectivity#reverse-connect-transport))         | WebSocket                  | [Network details]                          |
 |                                         |                            | Transport protocol: WebSocket              |
 |                                         |                            | Round-trip time:13 ms                      |
 |                                         |                            | Available bandwidth: 9.99 Mpbs             |
