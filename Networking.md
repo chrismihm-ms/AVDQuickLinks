@@ -37,7 +37,8 @@ For **RDP Shortpath** over public networks, the traffic (using ICE/STUN or TURN)
 
 Quick Notes:
 How do I know if I’m successfully using TURN?
-- [Connectivity icon in remote desktop window](/Diagrams/remote-desktop-bar-connectivity-icon.png) 
+
+[Connectivity icon in remote desktop window](/Diagrams/remote-desktop-bar-connectivity-icon.png) 
 
 This will display the network details including what type of transport is in use.
 
