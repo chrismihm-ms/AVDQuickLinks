@@ -23,7 +23,6 @@ Guide Contents:
 - [Skilling](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Skilling.md)
 - [How-to videos about Azure Virtual Desktop](https://learn.microsoft.com/en-US/troubleshoot/azure/virtual-machines/windows/how-to-videos-windows-virtual-desktop)
 - [Azure Virtual Desktop pricing](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/)
-
 - [Performing a Proof of Concept (PoC)](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/poc.md)
 
 # In Progress/Future Sections
