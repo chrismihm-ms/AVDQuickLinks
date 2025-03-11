@@ -16,7 +16,7 @@ Below is a basic outlinde of setting up an initial AVD Proof of Concept.
 - Create session host virtual machines.
 - Assign users or groups to the application group for users to get access to desktops and applications.
 
-**Create an initial host pool**
+### Create an initial host pool
 Login to Azure portal and in the search filed at the top of the portal, search for "Azure Virtual Desktop" and click that to lauch the AVD blade.
 ![Search for AVD in Azure Portal](/Diagrams/search-avd-blade.png)  
 
