@@ -1,20 +1,20 @@
 # Azure Virtual Desktop Proof of Concept
-Below is a basic outlinde of setting up an initial AVD Proof of Conecept.
+Below is a basic outlinde of setting up an initial AVD Proof of Concept.
 
 **Prereqs**
 - Azure Active Directory tenant
 - Azure Subscription
-- Register Resource Provider
-- Permissions/RBAC
-
-
+- Available Quota in subscription for desired VM instance
+- Register Resource Provider - Make sure to register the *Microsoft.DesktopVirtualization* resource provider for your subscription
+- Permissions/RBAC - For purposes of PoC, the admin account should have Contributor and User access administrator role scoped to subscription. 
+- Internet access from the VM that gets deployed. For more information, see [Required FQDNs and endpoints for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint)
 
 **Overview**
-• Create a host pool.
-• Create a workspace.
-• Create an application group.
-• Create session host virtual machines.
-• Assign users or groups to the application group for users to get access to desktops and applications.
+- Create a host pool.
+- Create a workspace.
+- Create an application group.
+- Create session host virtual machines.
+- Assign users or groups to the application group for users to get access to desktops and applications.
 
 
 
