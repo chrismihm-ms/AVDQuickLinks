@@ -1,7 +1,7 @@
 # Azure Virtual Desktop Proof of Concept
 Below is a basic outlinde of setting up an initial AVD Proof of Concept.
 
-**Prereqs**
+***Prereqs***
 - Azure Active Directory tenant
 - Azure Subscription
 - Available Quota in subscription for desired VM instance
@@ -9,7 +9,7 @@ Below is a basic outlinde of setting up an initial AVD Proof of Concept.
 - Permissions/RBAC - For purposes of PoC, the admin account should have Contributor and User access administrator role scoped to subscription. 
 - Internet access from the VM that gets deployed. For more information, see [Required FQDNs and endpoints for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint)
 
-**Overview**
+***Overview***
 - Create a host pool.
 - Create a workspace.
 - Create an application group.
