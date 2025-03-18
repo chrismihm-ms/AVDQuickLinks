@@ -1,5 +1,5 @@
-# Azure Virtual Desktop Proof of Concept using Entra ID Authentication
-Below is a basic outlinde of setting up an initial AVD Proof of Concept.
+# Azure Virtual Desktop Proof of Concept leveraging Entra ID Authentication
+Below is a basic outlinde of setting up an initial AVD Proof of Concept using Entra ID Authentication to login to AVD session hosts.
 
 ***Prereqs***
 - Azure Active Directory tenant
