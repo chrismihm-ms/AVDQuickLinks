@@ -23,7 +23,7 @@ Guide Contents:
 - [Skilling](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Skilling.md)
 - [How-to videos about Azure Virtual Desktop](https://learn.microsoft.com/en-US/troubleshoot/azure/virtual-machines/windows/how-to-videos-windows-virtual-desktop)
 - [Azure Virtual Desktop pricing](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/)
-- [Performing a Proof of Concept (PoC)](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/poc.md)
+- [Performing a Proof of Concept (PoC) using Entra ID Authentication](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/Entra%20ID%20poc.md)
 
 # In Progress/Future Sections
 - [Azure Dev Box](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/DevBox.md)
