@@ -47,14 +47,18 @@ In the *"Create a host pool Tags"* tab, enter is desired resource tags. At the b
 In the *"Create a host pool Review + create"* tab, Review the configuration and make sure that it passes Validation. At the bottom, click on the ***Create"*** button to start the creation of the AVD resrouces.
 ![Create Host Pool Review + create Tab](/Diagrams/CreateHostPoolCreate.png)
 
-## Additional Notes for Prereqs section
-After the Host pool(s) are created, you will need to ensure that Microsoft Entra single sign-on is configured. To do this go into the Host pool RDP properties.
+## Configuring Entra ID Authentication
+After the Host pool(s) are created, you will need to ensure that Microsoft Entra single sign-on is configured. To do this go into the Host pool *"RDP properties"*. You are defaulted to the *"Connection Information"* tab.
 ![RDP Properties Entra Single Sign On](/Diagrams/RDPPropertiesEntraSingleSignOn.png)
 
-Go to Advanced tab and make sure that the following are in the RDP properties. If they aren't,add them now and save.
+Go to *"Advanced"* tab and make sure that the following are in the RDP properties. If they aren't,add them now and *"Save"*.
 *targetisaadjoined:i:1*
 *enablerdsaadauth:i:1*
 ![RDP Properties Advanced Tab](/Diagrams/RDPPropertiesAdvanced.png)
+
+We now need to assign users or groups to the provisioned application group. Go to the application group within AVD management and click into the provisioned application group. In the left hand pane, expand the *"Manage"* blade and click into *"Assignments"*. Click on *"Add"* at the top to bring up the *"Select Microsoft Entra users or user groups"*. Select the user(s) or Groups you would like to add and click on the *"Select"* button at the bottom. 
+![Adding Users to Application Group](/Diagrams/AddingUserstoApplicationGroup.png)
+![Select Microsoft Entra users or user groups](/Diagrams/SelectEntraIDGroup.png)
 
 
 ## Additional Notes for Prereqs section
