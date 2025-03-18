@@ -45,7 +45,12 @@ In the *"Create a host pool Review + create"* tab, Review the configuration and 
 ![Create Host Pool Review + create Tab](/Diagrams/CreateHostPoolCreate.png)
 
 ## Notes from Prereqs section
+**Session hosts**
+To join session hosts to Microsoft Entra ID or an Active Directory domain, you need the following permissions:
+- For Microsoft Entra ID, you need an account that can join computers to your tenant. For more information, see [Manage device identities](https://learn.microsoft.com/en-us/azure/active-directory/devices/manage-device-identities#configure-device-settings). To learn more about joining session hosts to Microsoft Entra ID, see [Microsoft Entra joined session hosts](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-ad-joined-session-hosts).
+- For an Active Directory domain, you need a domain account that can join computers to your domain. For Microsoft Entra Domain Services, you would need to be a member of the [AAD DC Administrators group](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-create-instance-advanced#configure-an-administrative-group).
 
+==*The account you use for joining a domain can't have multi-factor authentication (MFA) enabled.*==
 
 **RBAC**
 - you can assign the Contributor or Owner RBAC role to create all of these resource types
