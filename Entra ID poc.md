@@ -16,8 +16,8 @@ Below is a basic outlinde of setting up an initial AVD Proof of Concept using En
 - Create a workspace.
 - Create an application group.
 - Create session host virtual machines.
-- 
 - Assign users or groups to the application group for users to get access to desktops and applications.
+- Install AVD client and get logged in to test access to AVD VDI
 
 ### Create an initial host pool
 Login to Azure portal and in the search filed at the top of the portal, search for ***"Azure Virtual Desktop"*** and click that to lauch the AVD blade.
