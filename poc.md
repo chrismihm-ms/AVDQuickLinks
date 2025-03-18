@@ -44,7 +44,7 @@ In the *"Create a host pool Tags"* tab, enter is desired resource tags. At the b
 In the *"Create a host pool Review + create"* tab, Review the configuration and make sure that it passes Validation. At the bottom, click on the ***Create"*** button to start the creation of the AVD resrouces.
 ![Create Host Pool Review + create Tab](/Diagrams/CreateHostPoolCreate.png)
 
-### Notes from Prereqs section
+## Notes from Prereqs section
 
 
 **RBAC**
@@ -62,7 +62,7 @@ Built-in RBAC roles that include this permission are [User Access Administrator]
 - Make sure to register the Microsoft.DesktopVirtualization resource provider for your subscription
 ![Register Resource Provider](/Diagrams/RegisterResourceProvider.png)
 
-### Supporting links to Microsoft documentation for Azure Virtual Desktop
+### Additional Supporting Links to Microsoft documentation for Azure Virtual Desktop
 - [Azure Virtual Desktop documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
 - [Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/en-us/certifications/azure-virtual-desktop-specialty/)
 - [Microsoft Learning Path Modules- Azure Virtual Desktop implementation](https://learn.microsoft.com/en-us/training/browse/?terms=azure%20virtual%20desktop&expanded=azure&products=azure-virtual-desktop)
