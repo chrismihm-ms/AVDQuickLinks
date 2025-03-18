@@ -20,10 +20,27 @@ Below is a basic outlinde of setting up an initial AVD Proof of Concept.
 Login to Azure portal and in the search filed at the top of the portal, search for "Azure Virtual Desktop" and click that to lauch the AVD blade.
 ![Search for AVD in Azure Portal](/Diagrams/search-avd-blade.png)  
 
-From the AVD Overview page, click on "Create a host pool"
-![Create Host Pool Button](/Diagrams/create-host-pool-button.png)  
+From the AVD Overview page, click on "Quickstart" blade and then click on "Create" in the Host Pools tile
+![Quickstart Create Host Pool](/Diagrams/QuickStartCreateHostPool.png)  
+
+In Create a host pool Basics tab, use the dropdown and select the subscripion you're looking to deploy AVD resources to. Either select or "Create new" a resourcs Group. Enter in a Host Pool name and select the region where the Azure Virtual Desktop object will be created. The metadata for the object will be stored in the geography associated with the region. For Preferred app group type, Select between "Desktop" or "RemoteApp". For Host pool type, Select between "Pooled" or "Personal". For Create Session Host Configuration, Select No or Yes. At the bottom click on the "Next:Session hosts" button to move to the next configuration section.
+![Create Host Pool Basics Tab](/Diagrams/CreateHostPoolBasics.png)
 
 
+
+
+
+From the AVD Overview page, click on "Quickstart" blade and then click on "Create" in the Host Pools tile
+![Create Host Pool Basics Tab](/Diagrams/CreateHostPoolBasics.png)
+
+From the AVD Overview page, click on "Quickstart" blade and then click on "Create" in the Host Pools tile
+![Create Host Pool Basics Tab](/Diagrams/CreateHostPoolBasics.png)
+
+From the AVD Overview page, click on "Quickstart" blade and then click on "Create" in the Host Pools tile
+![Create Host Pool Basics Tab](/Diagrams/CreateHostPoolBasics.png)
+
+From the AVD Overview page, click on "Quickstart" blade and then click on "Create" in the Host Pools tile
+![Create Host Pool Basics Tab](/Diagrams/CreateHostPoolBasics.png)
 
 
 **Azure Virtual Desktop**
