@@ -36,11 +36,11 @@ Select the *"Virtual network"* and *"Subnet"* that you would like the session ho
 ![Create Host Pool Session Host Screenshot 1](/Diagrams/CreateHostPoolSessionHost1.png)
 ![Create Host Pool Session Host Screenshot 2](/Diagrams/CreateHostPoolSessionHost2.png)
 
+In the Create a host pool Workspace tab, click on ***"Yes"*** to Register desktop app group. In the To this workspace, either select an existing workspace or ***"Create New"***. At the bottom click on the ***Next:Workspace"*** button to move to the next configuration section.
+![Create Host Pool Workspace Tab](/Diagrams/CreateHostPoolWorkspace.png)
 
 
 
-From the AVD Overview page, click on "Quickstart" blade and then click on "Create" in the Host Pools tile
-![Create Host Pool Basics Tab](/Diagrams/CreateHostPoolBasics.png)
 
 From the AVD Overview page, click on "Quickstart" blade and then click on "Create" in the Host Pools tile
 ![Create Host Pool Basics Tab](/Diagrams/CreateHostPoolBasics.png)
