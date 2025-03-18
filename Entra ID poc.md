@@ -75,7 +75,7 @@ You can confirm by checking the role assignment, you can search for the users or
 ![Checking Role Assignment Members](/Diagrams/AddRoleAssignmentConfirmation.png)
 
 ## Check End User Experience
-Login to the AVD Remote Desktop Client with Entra ID and make sure that the workspace with Icon to session host shows up. Click on it to launch and test access to VDI. 
+Login to the AVD Remote Desktop Client with Entra ID and make sure that the workspace with Icon to session host shows up. Click on the Icon to launch and test access to VDI.
 ![AVD Client Experience](/Diagrams/AVDClient.png)
 
 ## Additional Notes for Prereqs section
