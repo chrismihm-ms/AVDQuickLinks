@@ -74,6 +74,10 @@ Click on the *"Members"* tab and then click on *"Select members"* to add the use
 You can confirm by checking the role assignment, you can search for the users or groups and it should show that they are in the *"Virtual Machine User Login"* role assignment.
 ![Checking Role Assignment Members](/Diagrams/AddRoleAssignmentConfirmation.png)
 
+## Check End User Experience
+Login to the AVD Remote Desktop Client with Entra ID and make sure that the workspace with Icon to session host shows up. Click on it to launch and test access to VDI. 
+![AVD Client Experience](/Diagrams/AVDClient.png)
+
 ## Additional Notes for Prereqs section
 
 **Session hosts**
@@ -104,7 +108,8 @@ Built-in RBAC roles that include this permission are [User Access Administrator]
 - [Microsoft Learning Path Modules- Azure Virtual Desktop implementation](https://learn.microsoft.com/en-us/training/browse/?terms=azure%20virtual%20desktop&expanded=azure&products=azure-virtual-desktop)
 - [Quickstart - Deploy Azure Virtual Desktop with the getting started feature](https://learn.microsoft.com/en-us/azure/virtual-desktop/getting-started-feature?toc=%2Fazure%2Fvirtual-desktop%2Fremote-app-streaming%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json&tabs=new-aadds)
 - [Azure AD join for Azure Virtual Desktop - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-ad-joined-session-hosts)
-
-
+- [Compare Remote Desktop client features across platforms and devices](https://learn.microsoft.com/en-us/previous-versions/remote-desktop-client/compare-remote-desktop-clients?pivots=azure-virtual-desktop&context=%2Fwindows-server%2Fcontext%2Fwindows-server-remote-desktop-services)
+-[Install the Remote Desktop client for Windows](https://learn.microsoft.com/en-us/previous-versions/remote-desktop-client/connect-windows-cloud-services?pivots=remote-desktop-msi&tabs=windows-msrdc-msi)
+-[the Remote Desktop client for Windows - Windows 64-bit](https://go.microsoft.com/fwlink/?linkid=2139369)
 \
 [*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)
