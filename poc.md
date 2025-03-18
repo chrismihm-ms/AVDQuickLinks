@@ -9,7 +9,7 @@ Below is a basic outlinde of setting up an initial AVD Proof of Concept.
 - Permissions/RBAC - For purposes of PoC, the admin account should have Contributor and User access administrator role scoped to subscription. 
 - Internet access from the VM that gets deployed. For more information, see [Required FQDNs and endpoints for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint)
 
-*See additional Note and screenshots here: [Additional Notes from Prereqs section](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/poc.md#notes-from-prereqs-section)*
+*See additional Note and screenshots here: [Additional Notes for Prereqs section](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/poc.md#notes-from-prereqs-section)*
 
 ***Overview***
 - Create a host pool.
@@ -46,7 +46,7 @@ In the *"Create a host pool Tags"* tab, enter is desired resource tags. At the b
 In the *"Create a host pool Review + create"* tab, Review the configuration and make sure that it passes Validation. At the bottom, click on the ***Create"*** button to start the creation of the AVD resrouces.
 ![Create Host Pool Review + create Tab](/Diagrams/CreateHostPoolCreate.png)
 
-## Additional Notes from Prereqs section
+## Additional Notes for Prereqs section
 
 **Session hosts**
 To join session hosts to Microsoft Entra ID or an Active Directory domain, you need the following permissions:
