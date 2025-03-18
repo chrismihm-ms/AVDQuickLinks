@@ -16,6 +16,7 @@ Below is a basic outlinde of setting up an initial AVD Proof of Concept.
 - Create a workspace.
 - Create an application group.
 - Create session host virtual machines.
+- 
 - Assign users or groups to the application group for users to get access to desktops and applications.
 
 ### Create an initial host pool
@@ -47,6 +48,16 @@ In the *"Create a host pool Review + create"* tab, Review the configuration and 
 ![Create Host Pool Review + create Tab](/Diagrams/CreateHostPoolCreate.png)
 
 ## Additional Notes for Prereqs section
+After the Host pool(s) are created, you will need to ensure that Microsoft Entra single sign-on is configured. To do this go into the Host pool RDP properties.
+![RDP Properties Entra Single Sign On](/Diagrams/RDPPropertiesEntraSingleSignOn.png)
+
+Go to Advanced tab and make sure that the following are in the RDP properties. If they aren't,add them now and save.
+*targetisaadjoined:i:1*
+*enablerdsaadauth:i:1*
+![RDP Properties Advanced Tab](/Diagrams/RDPPropertiesAdvanced.png)
+
+
+## Additional Notes for Prereqs section
 
 **Session hosts**
 To join session hosts to Microsoft Entra ID or an Active Directory domain, you need the following permissions:
@@ -75,6 +86,8 @@ Built-in RBAC roles that include this permission are [User Access Administrator]
 - [Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/en-us/certifications/azure-virtual-desktop-specialty/)
 - [Microsoft Learning Path Modules- Azure Virtual Desktop implementation](https://learn.microsoft.com/en-us/training/browse/?terms=azure%20virtual%20desktop&expanded=azure&products=azure-virtual-desktop)
 - [Quickstart - Deploy Azure Virtual Desktop with the getting started feature](https://learn.microsoft.com/en-us/azure/virtual-desktop/getting-started-feature?toc=%2Fazure%2Fvirtual-desktop%2Fremote-app-streaming%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json&tabs=new-aadds)
+- [Azure AD join for Azure Virtual Desktop - Azure Architecture Center | Microsoft Learn](hhttps://learn.microsoft.com/en-us/azure/virtual-desktop/azure-ad-joined-session-hosts)
+
 
 \
 [*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)
