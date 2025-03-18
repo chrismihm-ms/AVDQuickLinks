@@ -1,4 +1,4 @@
-# Azure Virtual Desktop Proof of Concept
+# Azure Virtual Desktop Proof of Concept using Entra ID Authentication
 Below is a basic outlinde of setting up an initial AVD Proof of Concept.
 
 ***Prereqs***
