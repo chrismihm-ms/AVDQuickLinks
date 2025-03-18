@@ -50,6 +50,7 @@ In the *"Create a host pool Review + create"* tab, Review the configuration and 
 **RBAC**
 - you can assign the Contributor or Owner RBAC role to create all of these resource types
 - must be assigned the following built-in role-based access control (RBAC) roles as a minimum on a resource group or subscription to create the following resource types.
+
 ![RBAC Roles](/Diagrams/RBACRoles.png)
 
 Ongoing management of host pools, workspaces, and application groups,
