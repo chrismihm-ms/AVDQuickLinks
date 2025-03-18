@@ -111,5 +111,6 @@ Built-in RBAC roles that include this permission are [User Access Administrator]
 - [Compare Remote Desktop client features across platforms and devices](https://learn.microsoft.com/en-us/previous-versions/remote-desktop-client/compare-remote-desktop-clients?pivots=azure-virtual-desktop&context=%2Fwindows-server%2Fcontext%2Fwindows-server-remote-desktop-services)
 -[Install the Remote Desktop client for Windows](https://learn.microsoft.com/en-us/previous-versions/remote-desktop-client/connect-windows-cloud-services?pivots=remote-desktop-msi&tabs=windows-msrdc-msi)
 -[the Remote Desktop client for Windows - Windows 64-bit](https://go.microsoft.com/fwlink/?linkid=2139369)
+
 \
 [*Back to Azure Virtual Desktop (AVD) Quick Reference Links Guide Contents*](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/README.md#azure-virtual-desktop-avd-quick-reference-links)
