@@ -44,8 +44,24 @@ In the *"Create a host pool Tags"* tab, enter is desired resource tags. At the b
 In the *"Create a host pool Review + create"* tab, Review the configuration and make sure that it passes Validation. At the bottom, click on the ***Create"*** button to start the creation of the AVD resrouces.
 ![Create Host Pool Review + create Tab](/Diagrams/CreateHostPoolCreate.png)
 
+### Notes from Prereqs section
 
-**Azure Virtual Desktop**
+
+**RBAC**
+- you can assign the Contributor or Owner RBAC role to create all of these resource types
+- must be assigned the following built-in role-based access control (RBAC) roles as a minimum on a resource group or subscription to create the following resource types.
+![RBAC Roles](/Diagrams/RBACRoles.png)
+
+Ongoing management of host pools, workspaces, and application groups,
+[Built-in Azure RBAC roles Azure Virtual Desktop | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/rbac)
+- To assign users to the application group, you'll also need *Microsoft.Authorization/roleAssignments/write* permissions on the application group.
+Built-in RBAC roles that include this permission are [User Access Administrator](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#user-access-administrator) and [Owner](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#owner).
+
+**Must register resource provider**
+- Make sure to register the Microsoft.DesktopVirtualization resource provider for your subscription
+![Register Resource Provider](/Diagrams/RegisterResourceProvider.png)
+
+### Supporting links to Microsoft documentation for Azure Virtual Desktop
 - [Azure Virtual Desktop documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
 - [Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/en-us/certifications/azure-virtual-desktop-specialty/)
 - [Microsoft Learning Path Modules- Azure Virtual Desktop implementation](https://learn.microsoft.com/en-us/training/browse/?terms=azure%20virtual%20desktop&expanded=azure&products=azure-virtual-desktop)
