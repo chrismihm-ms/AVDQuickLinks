@@ -60,7 +60,7 @@ We now need to assign users or groups to the provisioned application group. Go t
 ![Adding Users to Application Group](/Diagrams/AddingUserstoApplicationGroup.png)
 ![Select Microsoft Entra users or user groups](/Diagrams/SelectEntraIDGroup.png)
 
-We need to make sure that the User(s) or Groups that were assigned to the Application Group, have the necessary access to login in to the session hosts. Go to the resource group where the session hosts were deployed and click on the *"Access Control (IAM)"* blade. Under *"Role assignments'*, Click on *"Add', Add role assignment* at the top to add the user(s) or groups into the *"Virtual Machine User Login"* role
+After the User(s) or Groups are assigned to the Application Group, We need to check that it has the necessary access (or add it) to be able to login in to the session hosts using their Entra ID. Go to the resource group where the session hosts were deployed and click on the *"Access Control (IAM)"* blade. Under *"Role assignments'*, Click on *"Add', Add role assignment* at the top to add the user(s) or groups into the *"Virtual Machine User Login"* role
 ![Resource Group Role Assignment](/Diagrams/ResourceGroupRoleAssignment.png)
 
 In *"Add role assignment"* management, You are defaulted to the *"Role"* tab. Use the search field to search for  the *"Virtual Machine User Login"* role. Click on it to highlight it and then click on *"Next"* button at the bottom.
