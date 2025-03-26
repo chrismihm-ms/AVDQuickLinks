@@ -60,6 +60,13 @@ We now need to assign users or groups to the provisioned application group. Go t
 ![Adding Users to Application Group](/Diagrams/AddingUserstoApplicationGroup.png)
 ![Select Microsoft Entra users or user groups](/Diagrams/SelectEntraIDGroup.png)
 
+*Not required but recommended* - Now we need to update the AVD application *"Display Name"* in the application group to a name that is more user friendly. By default its named *“SessionDesktop”* 
+
+Still within the application group that you created, under the *"Manage"* blade click on *"Applications"* and then click on the Application Name. It will open up so you can edit the Display Name to something more user friendly. Click *"Save"* button to save the new display name.
+
+![Updating Application Group Display Name](/Diagrams/ApplicationGroupAppDisplayName1.png)
+![Changing Application Group Display Name](/Diagrams/ApplicationGroupAppDisplayName2.png)
+
 After the User(s) or Groups are assigned to the Application Group, We need to check that it has the necessary access (or add it) to be able to login in to the session hosts using their Entra ID. Go to the resource group where the session hosts were deployed and click on the *"Access Control (IAM)"* blade. Under *"Role assignments'*, Click on *"Add', Add role assignment* at the top to add the user(s) or groups into the *"Virtual Machine User Login"* role
 ![Resource Group Role Assignment](/Diagrams/ResourceGroupRoleAssignment.png)
 

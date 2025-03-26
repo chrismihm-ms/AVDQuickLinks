@@ -55,9 +55,9 @@ We now need to assign users or groups to the provisioned application group. Go t
 ![Adding Users to Application Group](/Diagrams/AddingUserstoApplicationGroup.png)
 ![Select Microsoft Entra users or user groups](/Diagrams/SelectEntraIDGroup.png)
 
-*Not required but recommended* - Now we need to update the AVD application *Display Name* in the application group to a name that is more user friendly. By default its named *“SessionDesktop”* 
+*Not required but recommended* - Now we need to update the AVD application *"Display Name"* in the application group to a name that is more user friendly. By default its named *“SessionDesktop”* 
 
-Within AVD management, Click on the *Application Groups* blade and then click on the application group that you created. From within the application group, under the *Manage* blade click on *Applications* and then click on the Application Name. It will open up so you can edit the Display Name to something more user friendly. Click *Save* button to save the new display name.
+Still within the application group that you created, under the *"Manage"* blade click on *"Applications"* and then click on the Application Name. It will open up so you can edit the Display Name to something more user friendly. Click *"Save"* button to save the new display name.
 
 ![Updating Application Group Display Name](/Diagrams/ApplicationGroupAppDisplayName1.png)
 ![Changing Application Group Display Name](/Diagrams/ApplicationGroupAppDisplayName2.png)
