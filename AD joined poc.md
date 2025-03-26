@@ -1,5 +1,5 @@
-# Azure Virtual Desktop Proof of Concept leveraging Entra ID Authentication
-Below is a basic outlinde of setting up an initial AVD Proof of Concept using Entra ID Authentication to login to AVD session hosts.
+# Azure Virtual Desktop Proof of Concept leveraging Active Directory Authentication for Session Hosts
+Below is a basic outlinde of setting up an initial AVD Proof of Concept using AD Authentication to login to AVD session hosts.
 
 ***Prereqs***
 - Azure Active Directory tenant
@@ -7,6 +7,8 @@ Below is a basic outlinde of setting up an initial AVD Proof of Concept using En
 - Available Quota in subscription for desired VM instance
 - Register Resource Provider - Make sure to register the *Microsoft.DesktopVirtualization* resource provider for your subscription
 - Permissions/RBAC - For purposes of PoC, the admin account should have Contributor and User access administrator role scoped to subscription. 
+- Hybrid Identity synced from On-Prem Active Directory via Microsoft Entra Connect or Microsoft Entra Domain Services
+- Network access to AD domain controller from the virtual network that the AVD sesssion hosts are deployed in for authentication
 - Internet access from the VM that gets deployed. For more information, see [Required FQDNs and endpoints for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint)
 
 *See additional Note and screenshots here: [Additional Notes for Prereqs section](https://github.com/chrismihm-ms/AVDQuickLinks/blob/main/poc.md#notes-from-prereqs-section)*
